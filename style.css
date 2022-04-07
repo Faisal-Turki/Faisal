@@ -1,0 +1,19 @@
+div{
+    background-image: url('background-image.png'); text-align: center;}
+    
+    .table,th,td {
+        border: 1px yellowgreen double ;
+        width: 100%;
+        text-align: center;
+    padding-left: 450px;}
+    pm{
+position:relative ;
+right: 620px;
+}n {
+position:relative ;
+bottom:  200px;}
+input{
+    background-color: red;
+    width: 180px;
+    
+}
